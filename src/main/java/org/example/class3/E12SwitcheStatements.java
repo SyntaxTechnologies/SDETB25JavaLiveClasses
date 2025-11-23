@@ -3,8 +3,6 @@ package org.example.class3;
 public class E12SwitcheStatements {
     public static void main(String[] args) {
 
-
-
         int day = 4;
         switch (day) {
             case 1:
