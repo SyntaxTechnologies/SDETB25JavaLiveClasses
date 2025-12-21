@@ -6,11 +6,11 @@ public class Cat {
     private int age;
     private double weight;
 
-    Cat(String name,String color,int age,double weight){
-    this.name=name;
-    this.color=color;
-    this.age=age;
-    this.weight=weight;
+    public Cat(String name, String color, int age, double weight) {
+        this.name = name;
+        this.color = color;
+        this.age = age;
+        this.weight = weight;
     }
 
     void printName(){
