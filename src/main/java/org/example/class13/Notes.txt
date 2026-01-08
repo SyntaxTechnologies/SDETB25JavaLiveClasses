@@ -1,0 +1,10 @@
+If else
+loops(While loop for loop)
+Arrays(1D)
+classes and objects
+String methods
+Methods in java
+ArrayList
+Maps
+Sets
+
